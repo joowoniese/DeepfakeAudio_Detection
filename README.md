@@ -1,3 +1,3 @@
 # DeepfakeAudio_Detection
-![Architecture](https://github.com/joowoniese/DeepfakeAudio_Detection/Info/DeepfakeDetection_DataProcessing.png)
+![Architecture](https://github.com/joowoniese/DeepfakeAudio_Detection/Info/DeepfakeAudio_DataProcessing.png)
 ---
